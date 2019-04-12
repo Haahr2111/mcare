@@ -1,0 +1,24 @@
+/*
+Theme Name : ocean Child
+Theme URI: https://rasmushaahr.dk/
+Version: 0.01
+Author: Rasmus Haahr
+Template: oceanwp
+*/
+
+
+
+.page-header {
+    display:none;
+}
+
+.site-logo-text {
+    display:none;
+}
+
+#knap-her-mere { transition: all .2s ease-in-out; }
+#knap-her-mere:hover { transform: scale(1.1);}
+
+a .textwrap:hover {
+    color:hotpink;
+}
